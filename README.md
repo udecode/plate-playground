@@ -1,5 +1,5 @@
 <h1 align="center">
-Plate
+[Plate](https://github.com/udecode/plate) Playground
 </h1>
 
 <p>
