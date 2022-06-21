@@ -25,7 +25,7 @@ td {
 }
 
 .slate-code_block {
-  background-color: #111827;
+  background-color: #111827 !important;
 }
 
 .slate-code_block code {
