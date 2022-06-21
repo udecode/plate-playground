@@ -3,7 +3,7 @@ Plate
 </h1>
 
 <p>
-<div align="center">
+  <a href="https://www.npmjs.com/package/@udecode/plate"><img src="https://img.shields.io/npm/dt/@udecode/plate.svg" alt="Total Downloads"></a>
   <a target="_blank" href="https://github.com/udecode/plate/releases/latest"><img src="https://img.shields.io/github/v/release/udecode/plate" /></a>
   <a target="_blank" href="https://plate.udecode.io/docs/playground" alt="Live Demo"><img src="https://img.shields.io/badge/Live%20Demo-blue" /></a>
   <a target="_blank" href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
