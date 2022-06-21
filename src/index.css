@@ -24,13 +24,13 @@ td {
   color: yellow;
 }
 
-.slate-code_block {
+/* .slate-code_block {
   background-color: #111827 !important;
 }
 
 .slate-code_block code {
   color: white;
-}
+} */
 
 .drag-button {
   overflow: hidden;

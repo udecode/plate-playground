@@ -48,6 +48,8 @@ import {
   createDeserializeDocxPlugin,
   PlateEventProvider,
   AutoformatPlugin,
+  ELEMENT_CODE_BLOCK,
+  StyledElement,
 } from '@udecode/plate'
 import {
   createExcalidrawPlugin,
@@ -80,6 +82,7 @@ const id = 'Examples/Playground'
 
 let components = createPlateUI({
   [ELEMENT_EXCALIDRAW]: ExcalidrawElement,
+  [ELEMENT_CODE_BLOCK]: StyledElement,
   // customize your components by plugin key
 })
 components = withStyledPlaceHolders(components)
