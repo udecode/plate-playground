@@ -17,3 +17,10 @@ Plate
 </p>
 
 ## Visit [plate.udecode.io](https://plate.udecode.io/) for docs, guides, API and more!
+
+To run the example:
+
+```bash
+yarn install
+yarn start
+```

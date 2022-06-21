@@ -6,6 +6,7 @@ import { faker } from '@faker-js/faker'
 import { initialDataExcalidraw } from './initialDataExcalidraw'
 import { createList, getNodesWithRandomId } from './utils'
 
+// eslint-disable-next-line @typescript-eslint/no-unused-expressions
 jsx
 
 const align: any = (
