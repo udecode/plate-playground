@@ -28,7 +28,7 @@ import {
 } from '@udecode/plate'
 import { autoformatRules } from './autoformat/autoformatRules'
 import { MENTIONABLES } from './mentionables'
-import { MyPlatePlugin, MyValue, MyEditor } from './typescript'
+import { MyEditor, MyPlatePlugin, MyValue } from './typescript'
 
 const resetBlockTypesCommonRule = {
   types: [ELEMENT_BLOCKQUOTE, ELEMENT_TODO_LI],
@@ -170,7 +170,7 @@ export const CONFIG: {
   },
   autoformat: {
     options: {
-      rules: autoformatRules,
+      rules: autoformatRules as any,
     },
   },
   mentionItems: MENTIONABLES,
